@@ -1,0 +1,8 @@
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "duuzad1"
+database_id = "ff28b412-aa07-4d64-ab33-995b5d952534"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "6b6ae7f3620a4e78889b2a933e45d834"
